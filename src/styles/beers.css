@@ -1,0 +1,15 @@
+.beercard-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.beercard {
+  margin: 2em 2em;
+  display: flex;
+  align-items: center;
+}
+
+.beer-details {
+  margin: 2em;
+  max-width: 18em;
+}

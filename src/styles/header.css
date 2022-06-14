@@ -1,0 +1,10 @@
+.header-home-button {
+  text-decoration: none !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(51, 104, 204);
+  height: 60px;
+  width: 100vw;
+}
